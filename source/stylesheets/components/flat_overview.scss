@@ -1,0 +1,28 @@
+.owner-overview{
+  display: flex;
+  align-items: center;
+}
+
+.owner-picture{
+  text-align: center;
+  margin: 20px 10px;
+}
+
+.owner-info{
+  text-align: left;
+  margin: 10px 10px;
+}
+
+#book-button{
+  width: 100%;
+}
+
+.form-box{
+  margin: 20px;
+  background-color: $green;
+  padding: 10px;
+}
+
+.wrapper{
+  background-color: $yellow;
+}

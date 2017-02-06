@@ -1,7 +1,6 @@
 .banner {
   color: white;
   text-align: center;
-  height: 100vh;
   background-size: cover !important;
   display: flex;
   align-items: center;
@@ -18,3 +17,13 @@
     margin-bottom: 50px;
   }
 }
+
+.banner-small{
+  height: 50vh;
+  background-position: center;
+}
+
+.banner-large{
+  height: 100vh;
+}
+
